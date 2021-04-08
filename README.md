@@ -20,5 +20,6 @@ L'utilisation du hasard "Random" est donc de la Partie !
 - L'effaçage de l'écran à chaque tour et l'affichage des scores finaux
 - Visualisation du Gagnant ou du perdant ou bien d'une possible égalité 
 
-## Présentation :
+## Descriptif :
+<img width="568" alt="Capture d’écran 2021-04-08 à 16 53 36" src="https://user-images.githubusercontent.com/71084572/114048543-f6e45500-988a-11eb-97c4-1bb27425bfce.png">
 
