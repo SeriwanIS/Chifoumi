@@ -13,3 +13,12 @@ L'utilisation du hasard "Random" est donc de la Partie !
 - Télécharger le code source sur GitHub : (lien)
 
 ## Fonctionnalités :
+- Fonction "Random"
+- IA intégrer (ordinateur)
+- Possibilité de choisir en combien de tours se déroule la partie 
+- L'affichage de l'action de l'IA
+- L'effaçage de l'écran à chaque tour et l'affichage des scores finaux
+- Visualisation du Gagnant ou du perdant ou bien d'une possible égalité 
+
+## Présentation :
+
